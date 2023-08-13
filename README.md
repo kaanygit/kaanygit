@@ -51,3 +51,9 @@
 <img src="https://raw.githubusercontent.com/kaanygit/kaanygit/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kaanygit/count.svg?"  />
+</div>
+
+###
