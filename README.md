@@ -92,6 +92,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kaanygit/kaanygit/output/snake.svg" alt="Snake animation" />
-
+[<img src="https://raw.githubusercontent.com/kaanygit/kaanygit/output/snake.svg" alt="Snake animation" />
+](url)
 ###
