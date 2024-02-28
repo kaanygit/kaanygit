@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Yasin Kaan Yigit and I'm a Full Stack Developer<br><br>- 💻 I’m currently working on React and Next.JS<br>- 📚  I’m currently learning React-Native<br>- 💬 Ask me about HTML, CSS, JavaScript, TypeScript, NextJS, Redux, Node.JS, MongoDB</p>
+<p align="left">I'm Yasin Kaan Yigit and I'm a Software Developer<br><br>- 💻 I’m currently working on Flutter and Python<br>- 📚  I’m currently learning Flutter<br>- 💬 Ask me about HTML, CSS, JavaScript, TypeScript, NextJS, Redux, Node.JS, MongoDB, Python, Flutter, Dart</p>
 
 ###
 
