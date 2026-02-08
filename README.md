@@ -79,7 +79,8 @@ I am a Software Developer with a deep focus on AI-powered applications and Full-
 <td valign="top" width="50%" style="border: none;">
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkaanygit%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" height="180" alt="stats graph" />
+<!-- Github Readme Stats Integration -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkaanygit%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000%26include_all_commits%3Dtrue%26count_private%3Dtrue" height="180" alt="stats graph" />
 </div>
 </td>
 </tr>
