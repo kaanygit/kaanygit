@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=220&section=header&text=Yasin%20Kaan%20Yiğit&fontSize=50&fontColor=fff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descFontSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=220&section=header&text=Yasin%20Kaan%20Yiğit&fontSize=50&fontColor=fff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C&descFontSize=20&descAlignY=65" width="100%" />
 </div>
 
 <div align="center">
