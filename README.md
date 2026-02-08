@@ -1,111 +1,102 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Yasin%20Kaan%20Yi%C4%9Fit&fontSize=42&fontAlignY=35&animation=fadeIn" />
-</p>
+<!-- Hero Section -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=600&lines=Software+Developer;AI-powered+applications+%26+Full-Stack;Next.js+%7C+Node.js+%7C+Flutter+%7C+Python;Always+building%2C+always+learning" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:3a1c71,100:d76d77%26height%3D220%26section%3Dheader%26text%3DYasin%2520Kaan%2520Yi%C4%9Fit%26fontSize%3D50%26fontColor%3Dfff%26fontAlignY%3D40%26animation%3DfadeIn%26desc%3DFull%2520Stack%2520Developer%2520%257C%2520AI%2520Enthusiast%26descFontSize%3D20%26descAlignY%3D65%26descAlign%3D50" alt="Yasin Kaan Yiğit Header" width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yasinkaanyigit1">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kaanygit&style=flat" />
-</p>
+<div align="center">
 
----
+<!-- Social Links - Clean & Minimalist -->
 
-## 🧠 About Me
-- I’m **Yasin Kaan Yiğit**, a **Software Developer** focused on **AI-powered applications**.
-- I build **full-stack** products: frontend + backend + integrations.
-- Interests: **model integration**, **automation**, **real-time apps**, **clean UI**.
+<a href="https://linkedin.com/in/yasinkaanyigit1" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="mailto:yasinkaanyigit@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/kaanygit">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
+</a>
 
----
+<br /> <br />
 
-## 🧰 Tech Stack (clean & grouped)
-<details>
-  <summary><b>Click to expand</b></summary>
+<!-- Typing Effect -->
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26pause%3D1000%26color%3D333333%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DBuilding%2Bscalable%2BAI%2Bsolutions%3BCrafting%2Bpixel-perfect%2BUIs%3BIntegrating%2BBackend%2Bwith%2BIntelligence%3BAlways%2Blearning%252C%2Balways%2Bcoding..." alt="Typing SVG" />
+</a>
+</div>
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+<hr />
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=flat&logo=graphql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=flat&logo=.net&logoColor=white)
+<!-- About Me Section -->
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+👨‍💻 About Me
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+"Code is like humor. When you have to explain it, it’s bad."
 
-### Cloud / DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+I am a Software Developer with a deep focus on AI-powered applications and Full-Stack architecture. I bridge the gap between complex machine learning models and user-friendly interfaces.
 
-### AI / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white.svg?style=flat&logo=opencv&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+🔭 I’m currently working on Real-time AI integration systems.
 
-</details>
+🌱 I’m currently learning Advanced MLOps & Rust.
 
----
+💬 Ask me about React, Next.js, Python, and Model Fine-tuning.
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaanygit&theme=transparent&show_icons=true&hide_border=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kaanygit&theme=transparent&hide_border=true" height="165" />
-</p>
+<!-- Tech Stack & Stats Grid Layout -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanygit&theme=transparent&hide_border=true&layout=compact" height="165" />
-</p>
+<div align="center">
+<table style="border: none; background-color: transparent;">
+<tr>
+<td valign="top" width="50%" style="border: none;">
+<h3 align="center">🛠 Tech Stack</h3>
+<div align="center">
+<!-- Languages -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dflat-square%26logo%3Dc-sharp%26logoColor%3Dwhite" />
+<br />
+<!-- Frontend -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dflat-square%26logo%3Dnext.js%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind-38B2AC%3Fstyle%3Dflat-square%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flutter-02569B%3Fstyle%3Dflat-square%26logo%3Dflutter%26logoColor%3Dwhite" />
+<br />
+<!-- Backend & DB -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dflat-square%26logo%3Dnode.js%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dflat-square%26logo%3Dmongodb%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Redis-DC382D%3Fstyle%3Dflat-square%26logo%3Dredis%26logoColor%3Dwhite" />
+<br />
+<!-- AI & Cloud -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dflat-square%26logo%3Dopencv%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dflat-square%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" />
+</div>
+</td>
+<td valign="top" width="50%" style="border: none;">
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkaanygit%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" height="180" alt="stats graph" />
+</div>
+</td>
+</tr>
+</table>
+</div>
 
----
+<!-- Languages & Streak Section -->
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaanygit&theme=transparent&no-frame=true&no-bg=true&margin-w=8" />
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkaanygit%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000%26langs_count%3D6" height="140" alt="languages graph" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkaanygit%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D00000000" height="140" alt="streak graph" />
+</div>
 
----
+<br />
 
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaanygit/kaanygit/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaanygit/kaanygit/output/dist/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/kaanygit/kaanygit/output/dist/github-snake.svg" />
-  </picture>
-</p>
+<!-- Footer Decoration -->
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" />
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:d76d77,100:3a1c71%26height%3D100%26section%3Dfooter" width="100%" />
+</div>
